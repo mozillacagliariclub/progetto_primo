@@ -15,24 +15,15 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-function changeColor (id, randomR, randomG, randomB) {
-    document.getElementById(id).backgroundColor = rgb(randomR,randomG,randomB);
+function changeColor (id, randomcolor) {
+    document.getElementById(id).style.color = randomcolor;
     }
-    
-function randomR () {
-    return Math.round(Math.random()*255);
+
+function randomColor (color_array) {
+    return Math.round(Math.random()*color_array.length);
 }
 
-function randomG () {
-    return Math.round(Math.random()*255);
-}
-
-function randomB () {
-    return Math.round(Math.random()*255);
-}
-
-red=randomR();
-green=randomG();
-blue=randomB();
+colors = ["Aqua","Bisque","BurlyWood","Chartreuse","CornflowerBlue","Cyan","DarkGoldenRod","DarkGreen","DarkOrange","DarkSalmon"];
 id="body";
-changeColor (id, red, green, blue);
+color_number=randomColor (colors);
+changeColor (id, colors(color_number));
