@@ -23,7 +23,7 @@ function randomColor (color_array) {
     return Math.floor(Math.random() * color_array.length);
 }
 
-colors = ["Aqua","Bisque","BurlyWood","Chartreuse","CornflowerBlue","Cyan","DarkGoldenRod","DarkGreen","DarkOrange","DarkSalmon"];
+colors = ["Aqua","Bisque","BurlyWood","Coral","CornflowerBlue","DarkCyan","DarkGoldenRod","DarkGreen","DarkOrange","DarkSalmon","DeepSkyBlue","ForestGreen","Gold","IndianRed","LightGreen","LightSeaGreen","LightSkyBlue","LimeGreen","OliveDrab","Orchid","RoyalBlue","SandyBrown","SpringGreen","YellowGreen"];
 id="body";
 color_number=randomColor (colors);
 changeColor (id, colors[color_number]);
