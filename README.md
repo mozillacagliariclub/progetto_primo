@@ -11,7 +11,7 @@ Primo progetto collaborativo della Webateca 2.0
 * [Mattia Page](https://mozillacagliariclub.github.io/progetto_primo/mattia/)
 * [Melinda Page](https://mozillacagliariclub.github.io/progetto_primo/melinda/)
 * [Paola Page](https://mozillacagliariclub.github.io/progetto_primo/paola/)
-* [Paolo Page](https://mozillacagliariclub.github.io/progetto_primo/paolo/)
+* [Paolo Page](https://mozillacagliariclub.github.io/progetto_primo/Paolo/public_html)
 * [Sergio Page](https://mozillacagliariclub.github.io/progetto_primo/sergio/)
 * [Stefano Page](https://mozillacagliariclub.github.io/progetto_primo/stefano/)
 
