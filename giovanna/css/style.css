@@ -1,0 +1,35 @@
+html,body{
+	margin:0px;
+	padding:0px;
+	
+}
+header{
+	text-align:center;
+	font-family:Arial;
+}
+section{
+	width:500px;
+	position:relative;
+	left:32%;
+}
+footer{
+	text-align:center;
+}
+
+#morfologia{
+	font-family:Washington;
+	font-size:20;
+}
+#morfologia h2{
+	text-align:center;
+}
+#comportamento h2{
+	text-align:center;
+}
+#habitat h2{
+	text-align:center;
+}
+@font-face{
+	font-family:'Washington';
+	src: url(fonts/WashingtonBasketball.ttf);
+}
