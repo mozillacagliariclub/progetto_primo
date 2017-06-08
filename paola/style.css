@@ -1,1 +1,25 @@
-
+<!DOCTYPE css>
+<html>
+<head>
+<style>
+/* mouse over the link */
+a:hover {
+  color: yellow;
+}
+a:link {
+	background-color: black;
+}
+h1 {
+	text-align: center;
+}
+body {
+	background-color: pink;
+}
+a {
+	color: white;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
